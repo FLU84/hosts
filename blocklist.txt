@@ -35,10 +35,10 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Fabio Lugibello
 # http://www.lugibello.ch
 
-betandwin.de
-bwin.com
-betano.com
-betano.de
+0.0.0.0 betandwin.de
+0.0.0.0 bwin.com
+0.0.0.0 betano.com
+0.0.0.0 betano.de
 
 # End blacklist
 #
