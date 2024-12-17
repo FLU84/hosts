@@ -1,31 +1,4 @@
-# Title: FLU84/hosts
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date: 
-#
-# Fetch the latest version of this file: https://
-# ===============================================================
-
-# Start the Blocklist
-
-#=====================================
-# Title: Hosts contributed by Fabio Lugibello
-# http://lugibello.ch
-
 betandwin.de
 bwin.com
 betano.com
 betano.de
-
-# End
-
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
-# 0.0.0.0 example.com
