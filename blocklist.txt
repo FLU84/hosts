@@ -39,6 +39,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bwin.com
 0.0.0.0 betano.com
 0.0.0.0 betano.de
+0.0.0.0 xhamster.com
 
 # End blacklist
 #
