@@ -39,8 +39,20 @@ ff02::3 ip6-allhosts
 xhamster.com
 
 # Gambling
+betway.com
+statista.com
+
+# Swiss
 online.swisscasinos.ch
 jackpots.ch
 starvegas.ch
 casino777.ch
 grandcasinobaden.ch
+mycasino.ch
+casinodavos.ch
+grandcasinobasel.com
+casinoragaz.ch
+grandcasino-bern.ch
+grandcasinoluzern.ch
+casino-interlaken.ch
+
