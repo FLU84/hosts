@@ -35,17 +35,12 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Fabio Lugibello
 # http://www.lugibello.ch
 
-0.0.0.0 betandwin.de
-0.0.0.0 bwin.com
-0.0.0.0 betano.com
-0.0.0.0 betano.de
-0.0.0.0 xhamster.com
+# Porn
+xhamster.com
 
-# End blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
-# 0.0.0.0 example.com
+# Gambling
+online.swisscasinos.ch
+jackpots.ch
+starvegas.ch
+casino777.ch
+grandcasinobaden.ch
