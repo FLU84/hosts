@@ -41,11 +41,21 @@ xhamster.com
 # Gambling
 betway.com
 statista.com
+jp-core.gamingenius.com
+dga.pragmaticplaylive.net
+cdn-libs.gamanzaengage.com
+scgroupsupport.zendesk.com
+starvegas-ch-cdn-static.gt-cdn.net
+jackpotsmiddleware.azurewebsites.net
 
 # Swiss
-online.swisscasinos.ch
+swisscasinos.ch
+*.swisscasinos.ch
+(^|\.)login.swisscasinos\.ch$
 jackpots.ch
+www.jackpots.ch
 starvegas.ch
+www.starvegas.ch
 casino777.ch
 grandcasinobaden.ch
 mycasino.ch
